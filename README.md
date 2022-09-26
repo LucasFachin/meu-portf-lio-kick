@@ -1,6 +1,6 @@
 # meu-portflio-kick
 
-
+link do site: https://lucas-fachin.soukick.com.br/home/
 
 paletas de cores usadas: #22223b , #4A4E69 , #9A8C98 , #C9ADA7 , #F2E9E4
 
