@@ -43,4 +43,6 @@ link para download:
 
 https://drive.google.com/file/d/18NhohJvtyEXIWvkH6qi085omVamILE1h/view?usp=sharing
 
+[Screenshot 2022-10-03 at 18-46-39 index – lucas_fachin.pdf](https://github.com/LucasFachin/meu-portflio-kick/files/9701260/Screenshot.2022-10-03.at.18-46-39.index.lucas_fachin.pdf)
+
 
